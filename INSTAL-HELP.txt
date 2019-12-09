@@ -1,0 +1,11 @@
+1.Import Database... "laundry.sql" (ada di Folder Tambahan)
+2.Pindahkan Folder LaundrySanhokParadise ke xampp/htdocs/ (ada di Folder Tambahan)
+3.Siap....
+
+Akun Administration :
+Username : admin
+Password : admin
+
+Akun User :
+Username : kim
+Password : kim
